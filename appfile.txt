@@ -1,0 +1,10 @@
+AttachDBFilename=|DataDirectory|\aspnetdb.mdf
+AttachDBFilename=lakshmimarketingagency\App_Data\aspnetdb.mdf
+
+https://sg2nwvpweb021.shr.prod.sin2.secureserver.net:8443/smb/
+
+lma
+subasankar
+
+
+Data Source=182.50.133.109;Integrated Security=False;User ID=aspdb;Connect Timeout=15;Encrypt=False;Packet Size=4096
