@@ -9,6 +9,7 @@ Imports MySql.Data.MySqlClient
 Imports System.Web.Services.Description
 Partial Class AssignStocktoCustomer
     Inherits System.Web.UI.Page
+    ' Initialize DB connection
     Dim sCon1 = ConfigurationManager.ConnectionStrings("rasarscn").ToString()
     Dim oCon1 As New MySqlConnection
     Dim finid As Integer
